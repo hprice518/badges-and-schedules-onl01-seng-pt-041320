@@ -22,4 +22,6 @@ def printer(attendees)
   badges.each do |speaker|
     puts "#{badge}"
   room_numbers.each do |room_numbers|
-    puts 
+    puts "#{index}"
+  end
+  
