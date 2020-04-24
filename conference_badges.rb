@@ -17,4 +17,5 @@ def assign_rooms(speakers)
   end
   room_numbers
 end
-  
+
+def 
