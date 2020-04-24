@@ -20,4 +20,4 @@ end
 
 def printer(attendees)
   badges.each do |speaker|
-    puts #{badge}
+    puts "#{badge}"
