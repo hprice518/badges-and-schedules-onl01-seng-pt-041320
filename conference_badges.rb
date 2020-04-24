@@ -23,4 +23,5 @@ def printer(attendees)
     puts "#{speaker}"
   room_numbers.each do |room|
     puts "#{room}"
+  end
 end
