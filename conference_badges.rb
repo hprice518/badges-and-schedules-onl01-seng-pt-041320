@@ -24,4 +24,4 @@ def printer(attendees)
   room_numbers.each do |room_numbers|
     puts "#{index}"
   end
-  
+end
